@@ -1,2 +1,3 @@
-# html-cheat-sheet
-HML5 Cheat Sheet.
+# HTML cheat sheet
+HyperText Markup Language Cheat Sheet
+
